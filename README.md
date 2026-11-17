@@ -17,6 +17,19 @@ python-practice/
 └── tests/         # 给练习代码配的测试
 ```
 
+## 已上传练习（按上传时间排序）
+
+| 序号 | 文件 | 上传时间 | 内容 |
+| --- | --- | --- | --- |
+| 01 | [basics/01_project_1.py](basics/01_project_1.py) | 2026-11-11 | 平均数、梯形面积、圆周长与面积、BMI |
+| 02 | [basics/02_if_statements.py](basics/02_if_statements.py) | 2026-11-12 | if 条件判断（B 站登录模拟） |
+| 03 | [basics/03_leap_year.py](basics/03_leap_year.py) | 2026-11-15 | 闰年、奇偶、成年、正负、及格判定 |
+| 04 | [basics/04_if_advanced.py](basics/04_if_advanced.py) | 2026-11-16 | elif 多分支、match 模式匹配（登录、成绩、折扣、三角形、计算器、游戏指令） |
+| 05 | [basics/05_loops_and_range.py](basics/05_loops_and_range.py) | 2026-11-17 | while / for / range()：求和、遍历字符串、else 子句 |
+| 06 | [basics/06_nested_loops.py](basics/06_nested_loops.py) | 2026-11-17 | 嵌套循环：长方形、99 乘法表、直角三角形、数字金字塔、国际象棋棋盘 |
+
+> 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
+
 ## 环境
 
 需要 Python 3.8 或更高版本（本机已有 3.13 / 3.14）。
@@ -28,7 +41,7 @@ python -m venv .venv
 # source .venv/bin/activate   # macOS / Linux
 
 # 运行单个练习文件
-python exercises/hello.py
+python basics/01_project_1.py
 ```
 
 ## 说明
