@@ -27,6 +27,7 @@ python-practice/
 | 04 | [basics/04_if_advanced.py](basics/04_if_advanced.py) | 2026-11-16 | elif 多分支、match 模式匹配（登录、成绩、折扣、三角形、计算器、游戏指令） |
 | 05 | [basics/05_loops_and_range.py](basics/05_loops_and_range.py) | 2026-11-17 | while / for / range()：求和、遍历字符串、else 子句 |
 | 06 | [basics/06_nested_loops.py](basics/06_nested_loops.py) | 2026-11-17 | 嵌套循环：长方形、99 乘法表、直角三角形、数字金字塔、国际象棋棋盘 |
+| 07 | [basics/07_flow_control_practice.py](basics/07_flow_control_practice.py) | 2026-11-18 | 流程控制练习：登录重试循环、猜数字、1-1000 内 5 的倍数求和、统计字符串中 a 与 k 的个数（代码以注释形式保留） |
 
 > 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
 
