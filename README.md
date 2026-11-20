@@ -29,6 +29,8 @@ python-practice/
 | 06 | [basics/06_nested_loops.py](basics/06_nested_loops.py) | 2026-11-17 | 嵌套循环：长方形、99 乘法表、直角三角形、数字金字塔、国际象棋棋盘 |
 | 07 | [basics/07_flow_control_practice.py](basics/07_flow_control_practice.py) | 2026-11-18 | 流程控制练习：登录重试循环、猜数字、1-1000 内 5 的倍数求和、统计字符串中 a 与 k 的个数（代码以注释形式保留） |
 | 08 | [basics/08_lists.py](basics/08_lists.py) | 2026-11-19 | 列表练习：列表遍历、十个数排序取最值、合并两个列表并去重、1-20 平方列表、偶数平方（代码以注释形式保留） |
+| 12 | [basics/12_strings.py](basics/12_strings.py) | 2026-11-20 | 字符串练习：邮箱格式验证、回文判断、10 个字符串反转后转大写并遍历输出 |
+| 13 | [basics/13_tuples.py](basics/13_tuples.py) | 2026-11-20 | 元组练习：变量值交换、学生成绩单统计（总分/平均分/各科最值与均值/优秀学生筛选） |
 
 > 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
 
