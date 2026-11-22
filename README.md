@@ -32,6 +32,7 @@ python-practice/
 | 12 | [basics/12_strings.py](basics/12_strings.py) | 2026-11-20 | 字符串练习：邮箱格式验证、回文判断、10 个字符串反转后转大写并遍历输出 |
 | 13 | [basics/13_tuples.py](basics/13_tuples.py) | 2026-11-20 | 元组练习：变量值交换、学生成绩单统计（总分/平均分/各科最值与均值/优秀学生筛选） |
 | 14 | [basics/14_sets.py](basics/14_sets.py) | 2026-11-21 | 集合练习：交集/差集/并集，统计每个学生选修课程数量（课堂练习，示例代码以注释形式保留） |
+| 15 | [basics/15_dicts.py](basics/15_dicts.py) | 2026-11-22 | 字典遍历：keys() / items() / for k, v in d.items() 三种写法 |
 
 > 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
 
