@@ -33,6 +33,8 @@ python-practice/
 | 13 | [basics/13_tuples.py](basics/13_tuples.py) | 2026-11-20 | 元组练习：变量值交换、学生成绩单统计（总分/平均分/各科最值与均值/优秀学生筛选） |
 | 14 | [basics/14_sets.py](basics/14_sets.py) | 2026-11-21 | 集合练习：交集/差集/并集，统计每个学生选修课程数量（课堂练习，示例代码以注释形式保留） |
 | 15 | [basics/15_dicts.py](basics/15_dicts.py) | 2026-11-22 | 字典遍历：keys() / items() / for k, v in d.items() 三种写法 |
+| 16 | [basics/16_data_container_practice.py](basics/16_data_container_practice.py) | 2026-11-23 | 数据容器综合练习：教务管理系统（嵌套字典增删改查 + 三科最高/最低/平均分与极值学员统计）
+| 17 | [basics/17_functions.py](basics/17_functions.py) | 2026-11-24 | 函数练习：圆/长方形/三角形面积、统计元音字母个数、成绩列表最高/最低/平均分（多返回值） |
 
 > 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
 
