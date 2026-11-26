@@ -35,6 +35,7 @@ python-practice/
 | 15 | [basics/15_dicts.py](basics/15_dicts.py) | 2026-11-22 | 字典遍历：keys() / items() / for k, v in d.items() 三种写法 |
 | 16 | [basics/16_data_container_practice.py](basics/16_data_container_practice.py) | 2026-11-23 | 数据容器综合练习：教务管理系统（嵌套字典增删改查 + 三科最高/最低/平均分与极值学员统计）
 | 17 | [basics/17_functions.py](basics/17_functions.py) | 2026-11-24 | 函数练习：圆/长方形/三角形面积、统计元音字母个数、成绩列表最高/最低/平均分（多返回值） |
+| 20 | [basics/20_function_cases.py](basics/20_function_cases.py) | 2026-11-26 | 函数案例：递归求阶乘 fact(n) |
 
 > 新练习按上传顺序依次加 `01_`、`02_`… 数字前缀，仅用于排序，文件名保持可读。
 
